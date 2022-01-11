@@ -1,0 +1,47 @@
+body{
+    background-image: url(images/bg.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.bot{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.botname{
+    font-weight: bold;
+}
+.align{
+    display: flex;
+}
+.text1{
+    /* background-color: rgb(0, 0, 0); */
+    color: white;
+    border-radius: 10px;
+
+}
+.text2{
+
+    color: white;
+    border-radius:10px ;
+
+  
+}
+.lore{
+    line-height: 24px;
+    font-size: 14px;
+}
+.applybtn{
+    background-color: rgb(17, 17, 56);
+    color: white;
+    border-radius: 40px;
+    border-color: rgb(158, 158, 158);
+}
+
+
+.text3{
+    color: rgb(201, 201, 201);
+}
+

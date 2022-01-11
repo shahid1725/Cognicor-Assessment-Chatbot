@@ -1,0 +1,39 @@
+body{
+    background-image: url(images/bg.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.bot{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.botname{
+    font-weight: bold;
+}
+.align{
+    display: flex;
+}
+.text1{
+    background-color: rgb(162, 213, 255);
+    color: white;
+    border-radius: 10px;
+    width: 30%;
+}
+.text2{
+    background-color: rgb(121, 121, 121);
+    color: white;
+    border-radius:10px ;
+    width: 50%;
+  
+}
+.icon{
+    border-radius: 200px;
+}
+
+.text3{
+    color: rgb(201, 201, 201);
+}
+
